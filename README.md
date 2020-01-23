@@ -1,2 +1,6 @@
 # hello-world
-learnig github 
+learnig github
+Hi my name is 
+i am from 
+live right now in 
+etc.
